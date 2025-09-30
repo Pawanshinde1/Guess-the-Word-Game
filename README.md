@@ -24,7 +24,7 @@ Follow these steps to run the project on your local machine:
 
 1️⃣ Clone the repository:
 
-git clone https://github.com/Pawanshinde1/guess-the-word.git
+git clone https://github.com/PawanShinde1/guess-the-word.git
 
 
 2️⃣ Navigate to the project folder.
